@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ETS2 Telemetry</string>
+    <string name="action_edit">Edit</string>
+    <string name="error_msg_query_failed">Failed to get data from server.</string>
+    <string name="Connect">Connect</string>
+    <string name="close">Close</string>
+    <string name="appVersion">App Version: %1$s</string>
+</resources>

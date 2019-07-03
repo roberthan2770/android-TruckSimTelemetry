@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ETS2 Telemetry</string>
+    <string name="action_edit">編輯</string>
+    <string name="error_msg_query_failed">無法取得伺服器資料。</string>
+    <string name="Connect">連線</string>
+    <string name="close">關閉</string>
+    <string name="appVersion">APP 版本: %1$s</string>
+</resources>
